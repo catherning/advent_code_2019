@@ -123,6 +123,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-d1_input
+*_input
 .vscode/settings.json
-d2_input
